@@ -1,12 +1,9 @@
 import twix from './twix.png';
 import './main.css';
 import SigninBtn from './components/SigninBtn';
-<<<<<<< HEAD
+import SignupBtn from './components/SignupBtn';
 import Popup from 'reactjs-popup';
 import 'reactjs-popup/dist/index.css';
-=======
-import SignupBtn from './components/SignupBtn';
->>>>>>> aa11ab27c2194ac7f02093e5a29adab953375a92
 
 export default function main() {
   return (
